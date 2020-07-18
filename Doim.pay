@@ -1,0 +1,6 @@
+num=7
+print('given number is '=,num)
+if num%2==:
+   print('given is number even')
+   else
+   print('given is number odd')
